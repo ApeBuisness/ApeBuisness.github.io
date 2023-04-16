@@ -8,6 +8,11 @@
 
 }
 
+
+
+  
+
+
 .FrameText{
     width: 100%;
     height: 100vh;
@@ -33,6 +38,8 @@
 }
 
 
+
+
 .MainPage h1:hover {
     color: rgb(84, 86, 197);
 }
@@ -40,3 +47,57 @@
 .credits span:hover{
     color: rgb(84, 86, 197);
 }
+
+.purchase button{
+    border: none;
+    margin: auto;
+    position: relative;
+    top: 27.99px;
+    left: -10%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    padding: 5px 10px;
+    border-color: rgb(84, 86, 197);
+    border: 2px solid rgb(84, 86, 197);
+    color: rgb(84, 86, 197);
+    cursor:pointer;
+}
+
+
+
+.TOS button{
+    border: none;
+    margin: auto;
+    position: relative;
+    top: -1.5px;
+    left: 7%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    padding: 5px 10px;
+    border-color: rgb(84, 86, 197);
+    border: 2px solid rgb(84, 86, 197);
+    color: rgb(84, 86, 197);
+    cursor:pointer;
+}
+
+.Discord button{
+    border: none;
+    margin: auto;
+    position: relative;
+    top: -30px;
+    left: 29.5%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+    color: white;
+    padding: 5px 10px;
+    border-color: rgb(84, 86, 197);
+    border: 2px solid rgb(84, 86, 197);
+    color: rgb(84, 86, 197);
+    cursor:pointer;
+}
+
