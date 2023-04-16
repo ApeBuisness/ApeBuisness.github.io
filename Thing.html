@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+
+
+<link rel="icon" href="shield-checkmark-outline.svg">
+
+<html>
+    <head>
+        <title id="pageTitle">Oblivity.cc</title>
+        <script>
+            // Define an array of titles
+            var titles = ["O", "Ob", "Obl", "Obli", "Obliv", "Oblivi", "Oblivit", "Oblivity", "Oblivity.", "Oblivity.c", "Oblivity.cc"];
+            
+            // Get a reference to the title element
+            var title = document.getElementById("pageTitle");
+            
+            // Initialize a counter variable
+            var counter = 0;
+            
+            // Set an interval to change the title every 2 seconds
+            setInterval(function() {
+            title.innerHTML = titles[counter];
+            counter++;
+            if (counter >= titles.length) {
+                counter = 0;
+            }
+            }, 1000);
+            
+
+        </script>
+    </head>
+
+    <body>
+    
+    </body>
+</html>
+
+
+<html>
+    <head>
+        <meta name="view" content="width=device-with, initial-scale=1.0"> 
+        <link rel = "stylesheet" href="style.css">
+    </head>
+    <body>
+        <audio id="player" autoplay loop>
+            <source src="Music.mp3" type="audio/mp3">
+        </audio>
+        <div class="FrameText">
+            <div class="MainPage">
+                <h1> Oblivity.cc </h1>
+                <div class="credits">
+                    <span> Brought To You By Ouz, Gavin and xv </span>
+                </div>
+            </div>
+        </div>
+
+    </body>
+</html>
+
+
+
+
