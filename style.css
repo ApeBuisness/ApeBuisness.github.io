@@ -75,7 +75,7 @@
 
 .TOS button{
     border: none;
-    margin: auto;
+    margin: 1;
     position: relative;
     top: -1.5px;
     left: 7%;
@@ -98,9 +98,9 @@
 
 .Discord button{
     border: none;
-    margin: auto;
+    margin: 1;
     position: relative;
-    top: -30.9px;
+    top: -31px;
     left: 29.5%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
