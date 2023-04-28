@@ -2,7 +2,5 @@ launcher version v1.6
 
 ---------
 changelog:
-fixed crashing.
-
-the big b is today.....
+Updated.
 ---------
