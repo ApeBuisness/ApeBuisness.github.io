@@ -1,6 +1,6 @@
-launcher version v1.6
+launcher version v1.7
 
 ---------
 changelog:
-Updated.
+fixing auth as the big b is now in roblox
 ---------a
