@@ -1,7 +1,6 @@
-launcher version v1.8
+launcher version v1.9
 
 ---------
 changelog:
-auth fix
-working on big b
+working on uwp stuffs so launcher update
 ---------
