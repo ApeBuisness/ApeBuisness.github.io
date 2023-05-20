@@ -1,6 +1,6 @@
-launcher version v1.9
+launcher version v1.10
 
 ---------
 changelog:
-working on uwp stuffs so launcher update
+took auth offline till futher notice
 ---------
