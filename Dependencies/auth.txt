@@ -1,6 +1,7 @@
-launcher version v1.10
+launcher version v2.0
 
 ---------
 changelog:
-took auth offline till futher notice
+Updated for UWP Verison 2.578.564 (Alpha Testing & Hopefully temporary)
+Auth is now back online for a while 
 ---------
